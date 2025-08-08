@@ -1,11 +1,5 @@
 # Daniella-Haskell-plutus
 
-Im DaniellA Kamana a student at tobb technology
-Student number:
-Qualification:A+Comptia
-Group name:
-Group number:009
-
 # 🌍 Global Cardano Developer Onboarding for Universities
 
 Welcome to the official repository for the **Cardano Global University Onboarding Project**, funded by **Project Catalyst** and supported by the **Cardano community**. This initiative aims to empower students worldwide with top-tier **Web3** and **Cardano Smart Contract** development skills.
